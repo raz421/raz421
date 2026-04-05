@@ -1,213 +1,114 @@
-# 👋 Golam Haider Maharaz
-
-> Full Stack Engineer | System Architect | Building Next-Gen Applications
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E94F7?style=flat&logo=globe&logoColor=white)](https://portfolio.example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=ANJUM%20HOSSAIN&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Web%20Developer%20%20•%20React%20•%20Firebase%20•%20JavaScript&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/>
+
+<!--
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Cloud+Architect+%7C+AWS+%2B+GCP+%2B+Azure;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;CTO+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Building+the+Future+of+Logistics+%F0%9F%93%A6)](https://git.io/typing-svg)
+-->
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ahrafi16&label=Profile+Views&color=7C6FFF&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/ahrafi16?label=Followers&style=for-the-badge&color=7C6FFF)](https://github.com/devShakib015?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/ahrafi16?label=Total%20Stars&style=for-the-badge&color=06D6DB)](https://github.com/devShakib015)
 
 </div>
 
 ---
 
-## About
+## 👨‍💻  About Me
 
-Full Stack Developer passionate about architecting scalable, high-performance systems. I specialize in:
+```yaml
+name        : ANJUM HOSSAIN
+alias       : ahrafi16
+role        : Web Developer
+experience  : 2+ years in web developing
+specialty   : React · Next.Js · Node.Js · Express.Js . MongoDB . AI
+education   : BSc. Computer Science — DIU, BD (2025)
+contact     : anjumhossainrafi16@gmail.com
+```
 
-- 🚀 **Scalable Architecture** — Microservices, distributed systems, and cloud-native applications
-- ⚡ **Performance** — Optimized APIs, caching strategies, and system efficiency
-- 💎 **Code Quality** — Clean architecture, testing, and maintainable solutions
-- 🔧 **Modern Stack** — React, Next.js, Node.js, TypeScript, and cloud platforms
-
----
-
-## Tech Stack
-
-**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Redux • Framer Motion
-
-**Backend:** Node.js • Express • NestJS • Python • GraphQL • Socket.io
-
-**Data:** MongoDB • PostgreSQL • Firebase • Redis
-
-**Cloud & DevOps:** Docker • AWS • Vercel • GitHub Actions • Kubernetes
-
-**Tools:** Git • VS Code • Figma • Postman • Linear
-
-## What I Build
-
-- 🏗️ **Scalable Architecture** — Systems handling millions of concurrent users
-- ⚙️ **Performance-First** — Optimized APIs, efficient caching, low latency
-- 🚀 **Production Systems** — Zero-downtime deployments, reliability-focused
-- 🔌 **APIs & Services** — Microservices, RESTful & GraphQL APIs
-- 📊 **System Design** — Distributed systems, event-driven architecture
-
----
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**[LinkedIn](https://linkedin.com) • [Portfolio](https://portfolio.example.com) • [Email](mailto:contact@example.com)**
+**🌐 Frontend Development**
 
-</div>
-- **Clean Code Practices** — Writing maintainable, testable code with proper documentation
-- **DevOps & CI/CD** — Automating deployment pipelines and implementing monitoring solutions
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
 
----
+**⚙️ Backend Development**
 
-## 🚀 Featured Projects
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
-<table>
-<tr>
-<td width="50%">
+**🗄️ Databases**
 
-### **[E-Commerce Platform](https://github.com/maharaz/ecommerce)**
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
-A production-grade e-commerce system serving 10K+ concurrent users with real-time inventory management.
+**🤖 AI & Programming**
 
-**Tech Stack:**
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-- Next.js 14 + TypeScript
-- Node.js + Express backend
-- MongoDB with Redis caching
-- Stripe integration
-- Docker + AWS deployment
+**🔧 Tools & Workflow**
 
-**Performance Metrics:**
-
-- 0.8s Largest Contentful Paint
-- 98/100 Lighthouse Score
-- <50ms API response time
-
-</td>
-<td width="50%">
-
-### **[AI Content Generator](https://github.com/maharaz/ai-content-gen)**
-
-Intelligent content generation platform powered by OpenAI API with team collaboration features.
-
-**Tech Stack:**
-
-- Next.js + Tailwind CSS
-- FastAPI + Python backend
-- PostgreSQL + Redis
-- WebSocket for real-time updates
-- Kubernetes orchestration
-
-**Key Features:**
-
-- 95% accuracy in content generation
-- Real-time collaboration (10+ users)
-- Advanced analytics dashboard
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### **[Analytics Dashboard](https://github.com/maharaz/analytics-dashboard)**
-
-Real-time business intelligence platform processing 1M+ data points daily.
-
-**Tech Stack:**
-
-- React + D3.js visualization
-- NestJS + GraphQL
-- ClickHouse for analytics
-- Docker Compose
-- GitHub Actions CI/CD
-
-**Features:**
-
-- Sub-second query response
-- Custom dashboard builder
-- Export to multiple formats
-
-</td>
-<td width="50%">
-
-### **[Microservices Architecture](https://github.com/maharaz/microservices-kit)**
-
-Scalable microservices boilerplate with best practices for modern distributed systems.
-
-**Tech Stack:**
-
-- Node.js microservices
-- Docker + Kubernetes
-- Message queues (RabbitMQ)
-- Service mesh (Istio)
-- Prometheus monitoring
-
-**Achievements:**
-
-- Auto-scaling implementation
-- 99.9% uptime SLA
-- Distributed tracing setup
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maharaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/maharaz)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maharaz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/maharaz)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maharaz&theme=tokyonight&hide_border=true)](https://github.com/maharaz)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-
-- **Advanced Backend Architecture** — Exploring distributed systems, event sourcing, and CQRS patterns
-- **AI/ML Integration** — Building intelligent features with LLMs and machine learning models
-- **System Design Mastery** — Designing highly scalable, resilient systems
-- **Cloud-Native Development** — Deepening expertise in containerization and orchestration
-- **Performance Engineering** — Implementing advanced caching, CDN optimization, and database tuning
-
----
-
-## 📚 Learning Path
-
-I'm continuously keeping my skills sharp through:
-
-- Reading architectural patterns and case studies
-- Experimenting with emerging technologies
-- Contributing to open-source projects
-- Building side projects that solve real problems
-- Staying updated with industry best practices
-
----
-
-## 💬 Let's Connect
-
-I'm always interested in discussing:
-
-- **Challenging Projects** — Complex technical problems
-- **System Design** — Architecture and scalability
-- **Best Practices** — Clean code and design patterns
-- **Mentorship** — Sharing knowledge with the next generation
-- **Collaborations** — Building something great together
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📧 Reach Out
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahrafi16&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=09090E&title_color=7C6FFF&icon_color=06D6DB&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahrafi16&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=09090E&title_color=7C6FFF&text_color=ffffff"/>
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-**LinkedIn:** [linkedin.com/in/maharaz](https://linkedin.com)  
-**Portfolio:** [portfolio.example.com](https://portfolio.example.com)
+</div>
+
+<div align="center">
+
+<img width="88%" src="https://github-readme-streak-stats.herokuapp.com?user=ahrafi16&theme=tokyonight&hide_border=true&background=09090E&stroke=7C6FFF&ring=7C6FFF&fire=06D6DB&currStreakLabel=06D6DB&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888"/>
+
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9d2c96b3aadc60fa629bb8a54ffc89/images/footer.svg" alt="Footer" width="100%">
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahrafi16&theme=tokyonight" width="90%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahrafi16&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahrafi16&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahrafi16&theme=tokyonight" width="32%"/>
+
+</div>
+
+
+## 📈  Contribution Activity
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahrafi16&bg_color=09090E&color=7C6FFF&line=06D6DB&point=ffffff&area=true&hide_border=true&area_color=7C6FFF20"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C6FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjum-hossain-519a192b2/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-09090E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anjumhossain.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumhossainrafi16@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjumhossain.rafi/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anjumhossain)
 
 </div>
 
@@ -215,8 +116,25 @@ I'm always interested in discussing:
 
 <div align="center">
 
-**Let's build something extraordinary together.**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
 
-_Last Updated: April 2026_
+</div>
+
+
+---
+
+## 🐍  My Contributions
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/devShakib015/devShakib015/output/github-snake.svg">
+</picture>
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06D6DB,50:7C6FFF,100:09090E&height=120&section=footer"/>
 
 </div>
