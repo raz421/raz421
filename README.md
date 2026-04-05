@@ -18,6 +18,7 @@
 I'm a **Senior Full Stack Developer** with a passion for building production-grade applications and scalable systems. With expertise in modern JavaScript ecosystems, cloud architecture, and performance optimization, I architect solutions that balance technical excellence with business objectives.
 
 My approach combines:
+
 - **Clean Architecture** — Designing systems that scale effortlessly
 - **Performance First** — Optimizing for speed and efficiency from day one
 - **Best Practices** — Writing maintainable, testable, and production-ready code
@@ -28,6 +29,7 @@ My approach combines:
 ## 🛠️ Tech Stack
 
 ### **Frontend Engineering**
+
 <div align="left">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -40,6 +42,7 @@ My approach combines:
 </div>
 
 ### **Backend & Server**
+
 <div align="left">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -52,6 +55,7 @@ My approach combines:
 </div>
 
 ### **Database & Storage**
+
 <div align="left">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -62,6 +66,7 @@ My approach combines:
 </div>
 
 ### **Cloud & DevOps**
+
 <div align="left">
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -73,6 +78,7 @@ My approach combines:
 </div>
 
 ### **Tools & Utilities**
+
 <div align="left">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -108,6 +114,7 @@ My approach combines:
 A production-grade e-commerce system serving 10K+ concurrent users with real-time inventory management.
 
 **Tech Stack:**
+
 - Next.js 14 + TypeScript
 - Node.js + Express backend
 - MongoDB with Redis caching
@@ -115,6 +122,7 @@ A production-grade e-commerce system serving 10K+ concurrent users with real-tim
 - Docker + AWS deployment
 
 **Performance Metrics:**
+
 - 0.8s Largest Contentful Paint
 - 98/100 Lighthouse Score
 - <50ms API response time
@@ -127,6 +135,7 @@ A production-grade e-commerce system serving 10K+ concurrent users with real-tim
 Intelligent content generation platform powered by OpenAI API with team collaboration features.
 
 **Tech Stack:**
+
 - Next.js + Tailwind CSS
 - FastAPI + Python backend
 - PostgreSQL + Redis
@@ -134,6 +143,7 @@ Intelligent content generation platform powered by OpenAI API with team collabor
 - Kubernetes orchestration
 
 **Key Features:**
+
 - 95% accuracy in content generation
 - Real-time collaboration (10+ users)
 - Advanced analytics dashboard
@@ -148,6 +158,7 @@ Intelligent content generation platform powered by OpenAI API with team collabor
 Real-time business intelligence platform processing 1M+ data points daily.
 
 **Tech Stack:**
+
 - React + D3.js visualization
 - NestJS + GraphQL
 - ClickHouse for analytics
@@ -155,6 +166,7 @@ Real-time business intelligence platform processing 1M+ data points daily.
 - GitHub Actions CI/CD
 
 **Features:**
+
 - Sub-second query response
 - Custom dashboard builder
 - Export to multiple formats
@@ -167,6 +179,7 @@ Real-time business intelligence platform processing 1M+ data points daily.
 Scalable microservices boilerplate with best practices for modern distributed systems.
 
 **Tech Stack:**
+
 - Node.js microservices
 - Docker + Kubernetes
 - Message queues (RabbitMQ)
@@ -174,6 +187,7 @@ Scalable microservices boilerplate with best practices for modern distributed sy
 - Prometheus monitoring
 
 **Achievements:**
+
 - Auto-scaling implementation
 - 99.9% uptime SLA
 - Distributed tracing setup
@@ -211,6 +225,7 @@ Scalable microservices boilerplate with best practices for modern distributed sy
 ## 📚 Learning Path
 
 I'm continuously keeping my skills sharp through:
+
 - Reading architectural patterns and case studies
 - Experimenting with emerging technologies
 - Contributing to open-source projects
@@ -222,6 +237,7 @@ I'm continuously keeping my skills sharp through:
 ## 💬 Let's Connect
 
 I'm always interested in discussing:
+
 - **Challenging Projects** — Complex technical problems
 - **System Design** — Architecture and scalability
 - **Best Practices** — Clean code and design patterns
@@ -234,7 +250,7 @@ I'm always interested in discussing:
 
 **Email:** [your.email@example.com](mailto:your.email@example.com)  
 **LinkedIn:** [linkedin.com/in/maharaz](https://linkedin.com)  
-**Portfolio:** [portfolio.example.com](https://portfolio.example.com)  
+**Portfolio:** [portfolio.example.com](https://portfolio.example.com)
 
 ---
 
@@ -248,6 +264,6 @@ I'm always interested in discussing:
 
 **Let's build something extraordinary together.**
 
-*Last Updated: April 2026*
+_Last Updated: April 2026_
 
 </div>
