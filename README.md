@@ -21,31 +21,29 @@
 ## 👨‍💻  About Me
 
 ```yaml
-name        : Golam Haider Maharaz
-alias       : maharaz
-role        : Web Developer
-experience  : 2+ years in web developing
-specialty   : React · Next.Js · Node.Js · Express.Js . MongoDB . AI
-education   : BSc. Computer Science — DIU, BD (2025)
-contact     : maharazbhuiyan3@gmail.com
-github      : https://github.com/raz421
-linkedin    : www.linkedin.com/in/maharaz-bhuiyan-1676ab339
+name: Golam Haider Maharaz
+alias: maharaz
+role: Web Developer
+experience: 2+ years in web developing
+specialty: React · Next.Js · Node.Js · Express.Js . MongoDB . AI
+education: BSc. Computer Science — DIU, BD (2025)
+contact: maharazbhuiyan3@gmail.com
+github: https://github.com/raz421
+linkedin: www.linkedin.com/in/maharaz-bhuiyan-1676ab339
 ```
 
 ## � Tech Stack
 
-| **Frontend** | **Backend** | **Database** | **DevOps** |
-|:---:|:---:|:---:|:---:|
-| React | Node.js | MongoDB | Docker |
-| Next.js | Express | Firebase | AWS |
-| TypeScript | NestJS | MySQL | GitHub Actions |
-| Tailwind CSS | GraphQL | PostgreSQL | Kubernetes |
+| **Frontend** | **Backend** | **Database** |   **DevOps**   |
+| :----------: | :---------: | :----------: | :------------: |
+|    React     |   Node.js   |   MongoDB    |     Docker     |
+|   Next.js    |   Express   |   Firebase   |      AWS       |
+|  TypeScript  |   NestJS    |    MySQL     | GitHub Actions |
+| Tailwind CSS |   GraphQL   |  PostgreSQL  |   Kubernetes   |
 
 **Programming:** Python · JavaScript · TypeScript · Java
 
 **Tools:** Git • GitHub • VS Code • Postman • Figma
-
-
 
 ---
 
@@ -82,7 +80,6 @@ linkedin    : www.linkedin.com/in/maharaz-bhuiyan-1676ab339
 
 </div>
 
-
 ## 📈  Contribution Activity
 
 <div align="center">
@@ -112,7 +109,6 @@ linkedin    : www.linkedin.com/in/maharaz-bhuiyan-1676ab339
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="90%"/>
 
 </div>
-
 
 ---
 
