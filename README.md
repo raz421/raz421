@@ -1,103 +1,56 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E94F7&center=true&vCenter=true&width=500&lines=Golam+Haider+Maharaz;Senior+Full+Stack+Developer;Building+Scalable+Systems;Next.js+%7C+Node.js+Expert" alt="Typing SVG" /></a>
+# 👋 Golam Haider Maharaz
+
+> Full Stack Engineer | System Architect | Building Next-Gen Applications
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.example.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 
-  <img src="https://komarev.com/ghpvc/?username=maharaz&style=flat-square&color=2E94F7" alt="Profile Views" />
-  
-</div>
-
----
-
-## 💼 About Me
-
-I'm a **Senior Full Stack Developer** with a passion for building production-grade applications and scalable systems. With expertise in modern JavaScript ecosystems, cloud architecture, and performance optimization, I architect solutions that balance technical excellence with business objectives.
-
-My approach combines:
-
-- **Clean Architecture** — Designing systems that scale effortlessly
-- **Performance First** — Optimizing for speed and efficiency from day one
-- **Best Practices** — Writing maintainable, testable, and production-ready code
-- **System Design** — Building microservices, APIs, and complex distributed systems
-
----
-
-## 🛠️ Tech Stack
-
-### **Frontend Engineering**
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-000000?style=flat-square&logo=framer&logoColor=white)
-
-</div>
-
-### **Backend & Server**
-
-<div align="left">
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-
-</div>
-
-### **Database & Storage**
-
-<div align="left">
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-</div>
-
-### **Cloud & DevOps**
-
-<div align="left">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</div>
-
-### **Tools & Utilities**
-
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E94F7?style=flat&logo=globe&logoColor=white)](https://portfolio.example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 
 </div>
 
 ---
 
-## ⚡ What I Do
+## About
 
-- **Scalable Architecture Design** — Building systems that handle millions of concurrent users
-- **Performance Optimization** — Reducing page load times, optimizing API responses, implementing caching strategies
-- **Production-Ready Applications** — Deploying robust systems with zero-downtime deployments
-- **API & Microservices** — Designing RESTful and GraphQL APIs that scale
-- **System Design** — Architecting complex distributed systems with focus on reliability and efficiency
+Full Stack Developer passionate about architecting scalable, high-performance systems. I specialize in:
+
+- 🚀 **Scalable Architecture** — Microservices, distributed systems, and cloud-native applications
+- ⚡ **Performance** — Optimized APIs, caching strategies, and system efficiency
+- 💎 **Code Quality** — Clean architecture, testing, and maintainable solutions
+- 🔧 **Modern Stack** — React, Next.js, Node.js, TypeScript, and cloud platforms
+
+---
+
+## Tech Stack
+
+**Frontend:** React • Next.js • TypeScript • Tailwind CSS • Redux • Framer Motion
+
+**Backend:** Node.js • Express • NestJS • Python • GraphQL • Socket.io
+
+**Data:** MongoDB • PostgreSQL • Firebase • Redis
+
+**Cloud & DevOps:** Docker • AWS • Vercel • GitHub Actions • Kubernetes
+
+**Tools:** Git • VS Code • Figma • Postman • Linear
+
+## What I Build
+
+- 🏗️ **Scalable Architecture** — Systems handling millions of concurrent users
+- ⚙️ **Performance-First** — Optimized APIs, efficient caching, low latency
+- 🚀 **Production Systems** — Zero-downtime deployments, reliability-focused
+- 🔌 **APIs & Services** — Microservices, RESTful & GraphQL APIs
+- 📊 **System Design** — Distributed systems, event-driven architecture
+
+---
+
+<div align="center">
+
+**[LinkedIn](https://linkedin.com) • [Portfolio](https://portfolio.example.com) • [Email](mailto:contact@example.com)**
+
+</div>
 - **Clean Code Practices** — Writing maintainable, testable code with proper documentation
 - **DevOps & CI/CD** — Automating deployment pipelines and implementing monitoring solutions
 
