@@ -1,6 +1,6 @@
 <div align="center">
 
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:09090E,50:7C6FFF,100:06D6DB&text=Golam%20Haider%20Maharaz&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Senior%20Full%20Stack%20Developer%20%20•%20Next.js%20•%20Node.js%20•%20System%20Architect&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Golam%20Haider%20Maharaz&section=header&fontAlign=50&animation=twinkling&reversal=false&textBg=false&desc=Senior%20Full%20Stack%20Developer%20%20•%20Next.js%20•%20Node.js%20•%20System%20Architect&fontSize=48&fontColor=ffffff&descAlignY=50&fontAlignY=30&stroke=0"/>
 
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=7C6FFF&center=true&vCenter=true&random=false&width=700&lines=Flutter+%26+Dart+Expert+%F0%9F%9A%80;Cloud+Architect+%7C+AWS+%2B+GCP+%2B+Azure;AI+%26+ML+Integration+Specialist+%F0%9F%A4%96;CTO+%40+Shpper+%E2%80%94+Dubai+%F0%9F%87%A6%F0%9F%87%AA;Building+the+Future+of+Logistics+%F0%9F%93%A6)](https://git.io/typing-svg)
