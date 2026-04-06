@@ -98,7 +98,6 @@ linkedin: www.linkedin.com/in/maharaz-bhuiyan-1676ab339
 [![Portfolio](https://img.shields.io/badge/Portfolio-09090E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://anjumhossain.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjumhossainrafi16@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/anjumhossain.rafi/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/anjumhossain)
 
 </div>
 
